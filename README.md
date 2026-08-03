@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/harshit028-lab/DSA-Series/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0125-valid-palindrome](https://github.com/harshit028-lab/DSA-Series/tree/master/0125-valid-palindrome) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,4 +64,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/harshit028-lab/DSA-Series/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/harshit028-lab/DSA-Series/tree/master/0065-valid-number) |
+| [0125-valid-palindrome](https://github.com/harshit028-lab/DSA-Series/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
