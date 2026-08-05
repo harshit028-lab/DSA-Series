@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/harshit028-lab/DSA-Series/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/harshit028-lab/DSA-Series/tree/master/0049-group-anagrams) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/harshit028-lab/DSA-Series/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/harshit028-lab/DSA-Series/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -67,4 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/harshit028-lab/DSA-Series/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/harshit028-lab/DSA-Series/tree/master/0065-valid-number) |
 | [0125-valid-palindrome](https://github.com/harshit028-lab/DSA-Series/tree/master/0125-valid-palindrome) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/harshit028-lab/DSA-Series/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/harshit028-lab/DSA-Series/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
