@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/harshit028-lab/DSA-Series/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/harshit028-lab/DSA-Series/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/harshit028-lab/DSA-Series/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/harshit028-lab/DSA-Series/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/harshit028-lab/DSA-Series/tree/master/0217-contains-duplicate) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/harshit028-lab/DSA-Series/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/harshit028-lab/DSA-Series/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/harshit028-lab/DSA-Series/tree/master/0067-add-binary) |
+| [0076-minimum-window-substring](https://github.com/harshit028-lab/DSA-Series/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/harshit028-lab/DSA-Series/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/harshit028-lab/DSA-Series/tree/master/0205-isomorphic-strings) |
 ## Math
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/harshit028-lab/DSA-Series/tree/master/0067-add-binary) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/harshit028-lab/DSA-Series/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
