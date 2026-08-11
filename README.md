@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/harshit028-lab/DSA-Series/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/harshit028-lab/DSA-Series/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/harshit028-lab/DSA-Series/tree/master/0189-rotate-array) |
+| [0443-string-compression](https://github.com/harshit028-lab/DSA-Series/tree/master/0443-string-compression) |
 ## Hash Table
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/harshit028-lab/DSA-Series/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/harshit028-lab/DSA-Series/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/harshit028-lab/DSA-Series/tree/master/0205-isomorphic-strings) |
+| [0443-string-compression](https://github.com/harshit028-lab/DSA-Series/tree/master/0443-string-compression) |
 ## Math
 |  |
 | ------- |
