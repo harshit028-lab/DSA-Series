@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/harshit028-lab/DSA-Series/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/harshit028-lab/DSA-Series/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/harshit028-lab/DSA-Series/tree/master/0387-first-unique-character-in-a-string) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/harshit028-lab/DSA-Series/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/harshit028-lab/DSA-Series/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/harshit028-lab/DSA-Series/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/harshit028-lab/DSA-Series/tree/master/0459-repeated-substring-pattern) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/harshit028-lab/DSA-Series/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Math
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/harshit028-lab/DSA-Series/tree/master/0076-minimum-window-substring) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/harshit028-lab/DSA-Series/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String Matching
 |  |
 | ------- |
