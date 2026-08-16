@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/harshit028-lab/DSA-Series/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/harshit028-lab/DSA-Series/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/harshit028-lab/DSA-Series/tree/master/0300-longest-increasing-subsequence) |
+| [2029-stone-game-ix](https://github.com/harshit028-lab/DSA-Series/tree/master/2029-stone-game-ix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/harshit028-lab/DSA-Series/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/harshit028-lab/DSA-Series/tree/master/0387-first-unique-character-in-a-string) |
+| [2029-stone-game-ix](https://github.com/harshit028-lab/DSA-Series/tree/master/2029-stone-game-ix) |
 ## Binary Search
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/harshit028-lab/DSA-Series/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/harshit028-lab/DSA-Series/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/harshit028-lab/DSA-Series/tree/master/0189-rotate-array) |
+| [2029-stone-game-ix](https://github.com/harshit028-lab/DSA-Series/tree/master/2029-stone-game-ix) |
 ## Matrix
 |  |
 | ------- |
@@ -141,4 +144,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/harshit028-lab/DSA-Series/tree/master/0146-lru-cache) |
+## Greedy
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/harshit028-lab/DSA-Series/tree/master/2029-stone-game-ix) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/harshit028-lab/DSA-Series/tree/master/2029-stone-game-ix) |
+## Game Theory
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/harshit028-lab/DSA-Series/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/harshit028-lab/DSA-Series/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/harshit028-lab/DSA-Series/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
