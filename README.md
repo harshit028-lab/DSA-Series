@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/harshit028-lab/DSA-Series/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harshit028-lab/DSA-Series/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/harshit028-lab/DSA-Series/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/harshit028-lab/DSA-Series/tree/master/0049-group-anagrams) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/harshit028-lab/DSA-Series/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/harshit028-lab/DSA-Series/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harshit028-lab/DSA-Series/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/harshit028-lab/DSA-Series/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/harshit028-lab/DSA-Series/tree/master/0300-longest-increasing-subsequence) |
 ## Dynamic Programming
