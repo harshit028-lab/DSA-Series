@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/harshit028-lab/DSA-Series/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/harshit028-lab/DSA-Series/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshit028-lab/DSA-Series/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshit028-lab/DSA-Series/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/harshit028-lab/DSA-Series/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/harshit028-lab/DSA-Series/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/harshit028-lab/DSA-Series/tree/master/0217-contains-duplicate) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/harshit028-lab/DSA-Series/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/harshit028-lab/DSA-Series/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/harshit028-lab/DSA-Series/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshit028-lab/DSA-Series/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/harshit028-lab/DSA-Series/tree/master/0189-rotate-array) |
 | [0443-string-compression](https://github.com/harshit028-lab/DSA-Series/tree/master/0443-string-compression) |
 ## Hash Table
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/harshit028-lab/DSA-Series/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harshit028-lab/DSA-Series/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/harshit028-lab/DSA-Series/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshit028-lab/DSA-Series/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/harshit028-lab/DSA-Series/tree/master/0300-longest-increasing-subsequence) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/harshit028-lab/DSA-Series/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Dynamic Programming
