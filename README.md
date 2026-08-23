@@ -199,4 +199,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/harshit028-lab/DSA-Series/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/harshit028-lab/DSA-Series/tree/master/0701-insert-into-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/harshit028-lab/DSA-Series/tree/master/0701-insert-into-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/harshit028-lab/DSA-Series/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
