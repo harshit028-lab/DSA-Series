@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/harshit028-lab/DSA-Series/tree/master/0101-symmetric-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/harshit028-lab/DSA-Series/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -210,5 +211,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/harshit028-lab/DSA-Series/tree/master/0101-symmetric-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/harshit028-lab/DSA-Series/tree/master/0701-insert-into-a-binary-search-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/harshit028-lab/DSA-Series/tree/master/0101-symmetric-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/harshit028-lab/DSA-Series/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
