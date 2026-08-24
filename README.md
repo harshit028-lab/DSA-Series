@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/harshit028-lab/DSA-Series/tree/master/0101-symmetric-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/harshit028-lab/DSA-Series/tree/master/0144-binary-tree-preorder-traversal) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/harshit028-lab/DSA-Series/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -219,13 +220,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/harshit028-lab/DSA-Series/tree/master/0101-symmetric-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/harshit028-lab/DSA-Series/tree/master/0144-binary-tree-preorder-traversal) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/harshit028-lab/DSA-Series/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/harshit028-lab/DSA-Series/tree/master/0101-symmetric-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/harshit028-lab/DSA-Series/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/harshit028-lab/DSA-Series/tree/master/0101-symmetric-tree) |
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/harshit028-lab/DSA-Series/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
