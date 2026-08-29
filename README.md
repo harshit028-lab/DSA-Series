@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/harshit028-lab/DSA-Series/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/harshit028-lab/DSA-Series/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/harshit028-lab/DSA-Series/tree/master/2029-stone-game-ix) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/harshit028-lab/DSA-Series/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/harshit028-lab/DSA-Series/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/harshit028-lab/DSA-Series/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/harshit028-lab/DSA-Series/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/harshit028-lab/DSA-Series/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/harshit028-lab/DSA-Series/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/harshit028-lab/DSA-Series/tree/master/0217-contains-duplicate) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/harshit028-lab/DSA-Series/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Counting
 |  |
 | ------- |
@@ -272,4 +274,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/harshit028-lab/DSA-Series/tree/master/0014-longest-common-prefix) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/harshit028-lab/DSA-Series/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
