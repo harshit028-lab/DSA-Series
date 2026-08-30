@@ -282,4 +282,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/harshit028-lab/DSA-Series/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/harshit028-lab/DSA-Series/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
