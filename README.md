@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/harshit028-lab/DSA-Series/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/harshit028-lab/DSA-Series/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/harshit028-lab/DSA-Series/tree/master/0300-longest-increasing-subsequence) |
+| [0560-subarray-sum-equals-k](https://github.com/harshit028-lab/DSA-Series/tree/master/0560-subarray-sum-equals-k) |
 | [0896-monotonic-array](https://github.com/harshit028-lab/DSA-Series/tree/master/0896-monotonic-array) |
 | [1386-cinema-seat-allocation](https://github.com/harshit028-lab/DSA-Series/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/harshit028-lab/DSA-Series/tree/master/1563-stone-game-v) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/harshit028-lab/DSA-Series/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/harshit028-lab/DSA-Series/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/harshit028-lab/DSA-Series/tree/master/0387-first-unique-character-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/harshit028-lab/DSA-Series/tree/master/0560-subarray-sum-equals-k) |
 | [1386-cinema-seat-allocation](https://github.com/harshit028-lab/DSA-Series/tree/master/1386-cinema-seat-allocation) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/harshit028-lab/DSA-Series/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/harshit028-lab/DSA-Series/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/harshit028-lab/DSA-Series/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/harshit028-lab/DSA-Series/tree/master/0560-subarray-sum-equals-k) |
 | [1872-stone-game-viii](https://github.com/harshit028-lab/DSA-Series/tree/master/1872-stone-game-viii) |
 ## String
 |  |
