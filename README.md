@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/harshit028-lab/DSA-Series/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/harshit028-lab/DSA-Series/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshit028-lab/DSA-Series/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/harshit028-lab/DSA-Series/tree/master/0300-longest-increasing-subsequence) |
 | [1563-stone-game-v](https://github.com/harshit028-lab/DSA-Series/tree/master/1563-stone-game-v) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/harshit028-lab/DSA-Series/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/harshit028-lab/DSA-Series/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/harshit028-lab/DSA-Series/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/harshit028-lab/DSA-Series/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/harshit028-lab/DSA-Series/tree/master/0189-rotate-array) |
 | [1563-stone-game-v](https://github.com/harshit028-lab/DSA-Series/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/harshit028-lab/DSA-Series/tree/master/1872-stone-game-viii) |
@@ -308,4 +310,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1757-recyclable-and-low-fat-products](https://github.com/harshit028-lab/DSA-Series/tree/master/1757-recyclable-and-low-fat-products) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/harshit028-lab/DSA-Series/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
