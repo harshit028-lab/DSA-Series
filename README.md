@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/harshit028-lab/DSA-Series/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/harshit028-lab/DSA-Series/tree/master/0300-longest-increasing-subsequence) |
 | [0560-subarray-sum-equals-k](https://github.com/harshit028-lab/DSA-Series/tree/master/0560-subarray-sum-equals-k) |
+| [0835-image-overlap](https://github.com/harshit028-lab/DSA-Series/tree/master/0835-image-overlap) |
 | [0896-monotonic-array](https://github.com/harshit028-lab/DSA-Series/tree/master/0896-monotonic-array) |
 | [1386-cinema-seat-allocation](https://github.com/harshit028-lab/DSA-Series/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/harshit028-lab/DSA-Series/tree/master/1563-stone-game-v) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/harshit028-lab/DSA-Series/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/harshit028-lab/DSA-Series/tree/master/0200-number-of-islands) |
+| [0835-image-overlap](https://github.com/harshit028-lab/DSA-Series/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/harshit028-lab/DSA-Series/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Bit Manipulation
 |  |
