@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/harshit028-lab/DSA-Series/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/harshit028-lab/DSA-Series/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/harshit028-lab/DSA-Series/tree/master/0189-rotate-array) |
+| [0836-rectangle-overlap](https://github.com/harshit028-lab/DSA-Series/tree/master/0836-rectangle-overlap) |
 | [1563-stone-game-v](https://github.com/harshit028-lab/DSA-Series/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/harshit028-lab/DSA-Series/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/harshit028-lab/DSA-Series/tree/master/1927-sum-game) |
@@ -331,4 +332,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/harshit028-lab/DSA-Series/tree/master/0070-climbing-stairs) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/harshit028-lab/DSA-Series/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
