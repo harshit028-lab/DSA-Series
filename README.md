@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshit028-lab/DSA-Series/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/harshit028-lab/DSA-Series/tree/master/0189-rotate-array) |
 | [0443-string-compression](https://github.com/harshit028-lab/DSA-Series/tree/master/0443-string-compression) |
+| [1332-remove-palindromic-subsequences](https://github.com/harshit028-lab/DSA-Series/tree/master/1332-remove-palindromic-subsequences) |
 | [1768-merge-strings-alternately](https://github.com/harshit028-lab/DSA-Series/tree/master/1768-merge-strings-alternately) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/harshit028-lab/DSA-Series/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/harshit028-lab/DSA-Series/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/harshit028-lab/DSA-Series/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/harshit028-lab/DSA-Series/tree/master/0459-repeated-substring-pattern) |
 | [0940-distinct-subsequences-ii](https://github.com/harshit028-lab/DSA-Series/tree/master/0940-distinct-subsequences-ii) |
+| [1332-remove-palindromic-subsequences](https://github.com/harshit028-lab/DSA-Series/tree/master/1332-remove-palindromic-subsequences) |
 | [1768-merge-strings-alternately](https://github.com/harshit028-lab/DSA-Series/tree/master/1768-merge-strings-alternately) |
 | [1927-sum-game](https://github.com/harshit028-lab/DSA-Series/tree/master/1927-sum-game) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/harshit028-lab/DSA-Series/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
