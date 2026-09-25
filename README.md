@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/harshit028-lab/DSA-Series/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/harshit028-lab/DSA-Series/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/harshit028-lab/DSA-Series/tree/master/0560-subarray-sum-equals-k) |
+| [1096-brace-expansion-ii](https://github.com/harshit028-lab/DSA-Series/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/harshit028-lab/DSA-Series/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harshit028-lab/DSA-Series/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/harshit028-lab/DSA-Series/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/harshit028-lab/DSA-Series/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/harshit028-lab/DSA-Series/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/harshit028-lab/DSA-Series/tree/master/0217-contains-duplicate) |
+| [1096-brace-expansion-ii](https://github.com/harshit028-lab/DSA-Series/tree/master/1096-brace-expansion-ii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/harshit028-lab/DSA-Series/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/harshit028-lab/DSA-Series/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Counting
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/harshit028-lab/DSA-Series/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/harshit028-lab/DSA-Series/tree/master/0459-repeated-substring-pattern) |
 | [0940-distinct-subsequences-ii](https://github.com/harshit028-lab/DSA-Series/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/harshit028-lab/DSA-Series/tree/master/1096-brace-expansion-ii) |
 | [1332-remove-palindromic-subsequences](https://github.com/harshit028-lab/DSA-Series/tree/master/1332-remove-palindromic-subsequences) |
 | [1768-merge-strings-alternately](https://github.com/harshit028-lab/DSA-Series/tree/master/1768-merge-strings-alternately) |
 | [1927-sum-game](https://github.com/harshit028-lab/DSA-Series/tree/master/1927-sum-game) |
@@ -329,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/harshit028-lab/DSA-Series/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/harshit028-lab/DSA-Series/tree/master/0200-number-of-islands) |
+| [1096-brace-expansion-ii](https://github.com/harshit028-lab/DSA-Series/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/harshit028-lab/DSA-Series/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Stack
 |  |
@@ -336,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/harshit028-lab/DSA-Series/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/harshit028-lab/DSA-Series/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/harshit028-lab/DSA-Series/tree/master/0145-binary-tree-postorder-traversal) |
+| [1096-brace-expansion-ii](https://github.com/harshit028-lab/DSA-Series/tree/master/1096-brace-expansion-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -368,4 +373,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/harshit028-lab/DSA-Series/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/harshit028-lab/DSA-Series/tree/master/1401-circle-and-rectangle-overlapping) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/harshit028-lab/DSA-Series/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
