@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/harshit028-lab/DSA-Series/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/harshit028-lab/DSA-Series/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/harshit028-lab/DSA-Series/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/harshit028-lab/DSA-Series/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshit028-lab/DSA-Series/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/harshit028-lab/DSA-Series/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/harshit028-lab/DSA-Series/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/harshit028-lab/DSA-Series/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/harshit028-lab/DSA-Series/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/harshit028-lab/DSA-Series/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/harshit028-lab/DSA-Series/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/harshit028-lab/DSA-Series/tree/master/0067-add-binary) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/harshit028-lab/DSA-Series/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/harshit028-lab/DSA-Series/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/harshit028-lab/DSA-Series/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/harshit028-lab/DSA-Series/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/harshit028-lab/DSA-Series/tree/master/0145-binary-tree-postorder-traversal) |
@@ -399,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/harshit028-lab/DSA-Series/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/harshit028-lab/DSA-Series/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/harshit028-lab/DSA-Series/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/harshit028-lab/DSA-Series/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/harshit028-lab/DSA-Series/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/harshit028-lab/DSA-Series/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
