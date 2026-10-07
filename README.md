@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/harshit028-lab/DSA-Series/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/harshit028-lab/DSA-Series/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/harshit028-lab/DSA-Series/tree/master/0205-isomorphic-strings) |
+| [0301-remove-invalid-parentheses](https://github.com/harshit028-lab/DSA-Series/tree/master/0301-remove-invalid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/harshit028-lab/DSA-Series/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/harshit028-lab/DSA-Series/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/harshit028-lab/DSA-Series/tree/master/0459-repeated-substring-pattern) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/harshit028-lab/DSA-Series/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/harshit028-lab/DSA-Series/tree/master/0200-number-of-islands) |
+| [0301-remove-invalid-parentheses](https://github.com/harshit028-lab/DSA-Series/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/harshit028-lab/DSA-Series/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/harshit028-lab/DSA-Series/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Stack
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/harshit028-lab/DSA-Series/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/harshit028-lab/DSA-Series/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/harshit028-lab/DSA-Series/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
