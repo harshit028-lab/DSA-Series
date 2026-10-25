@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/harshit028-lab/DSA-Series/tree/master/0560-subarray-sum-equals-k) |
 | [0835-image-overlap](https://github.com/harshit028-lab/DSA-Series/tree/master/0835-image-overlap) |
 | [0896-monotonic-array](https://github.com/harshit028-lab/DSA-Series/tree/master/0896-monotonic-array) |
+| [1254-number-of-closed-islands](https://github.com/harshit028-lab/DSA-Series/tree/master/1254-number-of-closed-islands) |
 | [1386-cinema-seat-allocation](https://github.com/harshit028-lab/DSA-Series/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harshit028-lab/DSA-Series/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/harshit028-lab/DSA-Series/tree/master/1563-stone-game-v) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/harshit028-lab/DSA-Series/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/harshit028-lab/DSA-Series/tree/master/0200-number-of-islands) |
 | [0835-image-overlap](https://github.com/harshit028-lab/DSA-Series/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/harshit028-lab/DSA-Series/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/harshit028-lab/DSA-Series/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/harshit028-lab/DSA-Series/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Bit Manipulation
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/harshit028-lab/DSA-Series/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/harshit028-lab/DSA-Series/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/harshit028-lab/DSA-Series/tree/master/0200-number-of-islands) |
+| [1254-number-of-closed-islands](https://github.com/harshit028-lab/DSA-Series/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/harshit028-lab/DSA-Series/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
@@ -400,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/harshit028-lab/DSA-Series/tree/master/0200-number-of-islands) |
 | [0301-remove-invalid-parentheses](https://github.com/harshit028-lab/DSA-Series/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/harshit028-lab/DSA-Series/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/harshit028-lab/DSA-Series/tree/master/1254-number-of-closed-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/harshit028-lab/DSA-Series/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Stack
 |  |
@@ -437,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/harshit028-lab/DSA-Series/tree/master/0200-number-of-islands) |
+| [1254-number-of-closed-islands](https://github.com/harshit028-lab/DSA-Series/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/harshit028-lab/DSA-Series/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/harshit028-lab/DSA-Series/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Database
