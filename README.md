@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/harshit028-lab/DSA-Series/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/harshit028-lab/DSA-Series/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/harshit028-lab/DSA-Series/tree/master/0300-longest-increasing-subsequence) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/harshit028-lab/DSA-Series/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/harshit028-lab/DSA-Series/tree/master/0560-subarray-sum-equals-k) |
 | [0835-image-overlap](https://github.com/harshit028-lab/DSA-Series/tree/master/0835-image-overlap) |
 | [0896-monotonic-array](https://github.com/harshit028-lab/DSA-Series/tree/master/0896-monotonic-array) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/harshit028-lab/DSA-Series/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/harshit028-lab/DSA-Series/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/harshit028-lab/DSA-Series/tree/master/0189-rotate-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/harshit028-lab/DSA-Series/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/harshit028-lab/DSA-Series/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/harshit028-lab/DSA-Series/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1563-stone-game-v](https://github.com/harshit028-lab/DSA-Series/tree/master/1563-stone-game-v) |
