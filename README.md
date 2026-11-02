@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/harshit028-lab/DSA-Series/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/harshit028-lab/DSA-Series/tree/master/0300-longest-increasing-subsequence) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/harshit028-lab/DSA-Series/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/harshit028-lab/DSA-Series/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/harshit028-lab/DSA-Series/tree/master/0560-subarray-sum-equals-k) |
 | [0835-image-overlap](https://github.com/harshit028-lab/DSA-Series/tree/master/0835-image-overlap) |
 | [0896-monotonic-array](https://github.com/harshit028-lab/DSA-Series/tree/master/0896-monotonic-array) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/harshit028-lab/DSA-Series/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/harshit028-lab/DSA-Series/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/harshit028-lab/DSA-Series/tree/master/0217-contains-duplicate) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/harshit028-lab/DSA-Series/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1096-brace-expansion-ii](https://github.com/harshit028-lab/DSA-Series/tree/master/1096-brace-expansion-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/harshit028-lab/DSA-Series/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/harshit028-lab/DSA-Series/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/harshit028-lab/DSA-Series/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/harshit028-lab/DSA-Series/tree/master/0189-rotate-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/harshit028-lab/DSA-Series/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/harshit028-lab/DSA-Series/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/harshit028-lab/DSA-Series/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/harshit028-lab/DSA-Series/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1563-stone-game-v](https://github.com/harshit028-lab/DSA-Series/tree/master/1563-stone-game-v) |
