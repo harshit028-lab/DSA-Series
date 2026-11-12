@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/harshit028-lab/DSA-Series/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/harshit028-lab/DSA-Series/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/harshit028-lab/DSA-Series/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/harshit028-lab/DSA-Series/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/harshit028-lab/DSA-Series/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/harshit028-lab/DSA-Series/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/harshit028-lab/DSA-Series/tree/master/3471-find-the-largest-almost-missing-integer) |
